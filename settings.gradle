@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ergasia1_Android_2020-2021!"
